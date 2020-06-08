@@ -1,2 +1,2 @@
-# datascience
-Projetos de DS
+# Projetos destinados a DS
+
